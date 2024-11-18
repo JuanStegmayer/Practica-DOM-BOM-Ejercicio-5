@@ -1,0 +1,13 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+#cronometro {
+  font-size: 48px;
+  color: #333;
+}
+button {
+  font-size: 20px;
+  margin: 10px;
+}
